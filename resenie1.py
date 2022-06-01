@@ -9,5 +9,5 @@ num = val1+val2
 
 print(f"List1 = {val1}")
 print(f"List2 = {val2}")
-print("Sobirokot na dvata broja treba da bide vo obraten redosled")
+print("Sobirokot na dvata broja dobieni od listata treba da bide vo obraten redosled")
 print("Output: " + str(num)[::-1])
